@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jendafojtik
+- 👀 I’m interested in aritificial intelligence, deep learning and back-end development
+- 🌱 I’m currently learning various frameworks like Angular and such
